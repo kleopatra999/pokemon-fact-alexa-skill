@@ -1,2 +1,1 @@
-# pokemon-fact-alexa-skill 
-pokemon-fact-alexa-skill
+Unofficial Pokemon Fact Skill
