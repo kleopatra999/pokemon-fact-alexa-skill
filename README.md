@@ -1,12 +1,12 @@
-## Unofficial Pokemon Fact Skill
+# Unofficial Pokemon Fact Skill
 
-# Description 
+## Description 
 A Pokemon Fact a day... An unofficial Pokemon Fact App for Alexa users.
 
-# Full Skill Description
+## Full Skill Description
 Shares a random Pokemon Fact for Pokemon Go Fans and all others who are still learning about Pokemon world. An unofficial Pokemon Fact App for Alexa users. Not affiliated with Pokémon/Nintendo.
 
-# Example Phrases 
+## Example Phrases 
 Sample utterances that will help users get started and access skill's core functionality. The wake word in the first phrase. 
 
 1. Alexa, open unofficial pokemon facts
