@@ -12,3 +12,4 @@ GetNewFactIntent give me some information
 GetNewFactIntent give me some pokemon information
 GetNewFactIntent tell me something
 GetNewFactIntent give me something
+GetNewFactIntent pokemon fact
