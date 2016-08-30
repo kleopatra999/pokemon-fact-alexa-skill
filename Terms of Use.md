@@ -1,51 +1,17 @@
-# Terms of Use
+# Terms of use
 
-This Terms of Use has been compiled to help the users. Please read our Terms of use carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This Terms of Use has been compiled to help the users. Please read our Terms of use carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our App/Alexa Skill.
 
-# What personal information do we collect from the people that visit our blog, website or app?
-We do not collect information from visitors of our site. or other details to help you with your experience.
+If you continue to use this App/Alexa Skill, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern relationship with you in relation to this App/Alexa Skill. If you disagree with any part of these terms and conditions, please do not use our App/Alexa Skill.
 
-# When do we collect information and How do we use your information?
-We don't collect information from you when you or enter information on our site.
+The term 'us' or 'we' refers to the App/Alexa Skill. The term 'you' refers to the user or viewer of our App/Alexa Skill.
 
-# Do we use 'cookies'?
-We do not use cookies for tracking purposes
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
-If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly.
-However, you will still be able to place orders .
+The use of this App/Alexa Skill is subject to the following terms of use:
 
-# Third-party disclosure
+The content of the App/Alexa Skill is for general information and entertainment use only. It is subject to change without notice.
+This App/Alexa Skill doesn't uses cookies to monitor browsing preferences. Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this App/Alexa Skill for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+Your use of any information or materials on this App/Alexa Skill is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this App/Alexa Skill meet your specific requirements.
+This App/Alexa Skill contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
 
-# Third-party links
-
-We do not include or offer third-party products or services on our website.
-
-# Google
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
-
-We have not enabled Google AdSense on our site but we may do so in the future.
-
-# COPPA (Children Online Privacy Protection Act)
-
-When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We do not specifically market to children under the age of 13 years old.
-
-# Fair Information Practices
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-      • Within 7 business days
-We will notify the users via in-site notification
-      • Within 7 business days
-
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-# Consent
-By using our Alexa Skill, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
-
-# Update
-This Privacy Policy was last updated on Aug 30, 2016. If there will be any update, amendment, or changes to our Privacy Policy then these will be posted on this page.
+All trade marks reproduced in this App/Alexa Skill which are not the property of, or licensed to, the operator are acknowledged on the App/Alexa Skill.
