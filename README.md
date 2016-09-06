@@ -12,3 +12,6 @@ Sample utterances that will help users get started and access skill's core funct
 1. Alexa, open unofficial pokemon facts
 2. Alexa, ask unofficial pokemon facts for pokemon fact
 3. Alexa, ask unofficial pokemon facts to give me a pokemon fact
+
+## Download from Amazon Alexa Skill store
+http://alexa.amazon.com/spa/index.html#skills/dp/B01L6F2C8A/?ref=skill_dsk_skb_sr_0
